@@ -1,0 +1,24 @@
+{
+  "name": "json-fresh-loader",
+  "version": "1.0.0",
+  "description": "webpack json loader without caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxkostow/json-fresh-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "json",
+    "cache"
+  ],
+  "author": "Max Kostow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxkostow/json-fresh-loader/issues"
+  },
+  "homepage": "https://github.com/maxkostow/json-fresh-loader#readme"
+}
